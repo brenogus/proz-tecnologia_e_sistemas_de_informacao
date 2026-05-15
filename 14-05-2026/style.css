@@ -1,0 +1,132 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #fdf6ee;
+    color:  #2c1a0e;
+
+}
+
+header {
+    background-color: #3e1f00;
+    padding: 20px 60px;
+}
+
+header h1 {
+    color: #fdf6ee;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+header a {
+    color : #c8956c;
+    margin-top: 20px;
+}
+
+.hero {
+    background-color: #864815;
+    padding: 80px;
+    text-align:  center;
+}
+
+.hero h2 {
+    color: #fdf6ee;
+    font-size: 2.2rem;
+    margin-bottom: 16px;
+}
+
+.hero p {
+    color: #f0e0c8;
+    font-size: 1.1rem;
+    margin-bottom: 32px;
+}
+
+.btn {
+    background-color: #c8956c;
+    color: #fdf6ee;
+    padding: 12px 32px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+.sobre {
+    background-color: #fdf6ee;
+    padding: 60px 200px;
+}
+
+.sobre h2 {
+    color: #3e1f00;
+    margin-bottom: 16px;
+}
+
+.sobre p {
+    color: #5e3e2b;
+    margin-bottom: 12px;
+}
+
+.cardapio {
+    background-color: #f0e0c8;
+    padding: 60px;
+    text-align: center;
+}
+
+.cardapio h2 {
+    color: #3e1f00;
+    margin-bottom: 40px;
+}
+
+.card {
+    background-color: #fdf6ee;
+    width: 200px;
+    padding: 24px 16px;
+    margin: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 5px 5px black;
+}
+
+.card h3 {
+    color: 3e1f00;
+    margin-bottom: 12px;
+}
+
+.card p {
+    color:#7a5a40;
+    margin-bottom: 12px;
+}
+
+.preco {
+    color:#7b3f00;
+}
+
+.contato {
+    background-color: #3e1f00;
+    padding: 60px;
+    text-align: center;
+}
+
+.contato h2 {
+    color:  #fdf6ee;
+    margin-bottom: 32px;
+}
+
+.contato p {
+    color: #f0e0c8;
+    margin-bottom: 8px;
+}
+
+.contato .rotulo {
+    color: #c8956c;
+    margin-top: 24px;
+}
+
+footer {
+    background-color: #1a0a00;
+    padding: 20px;
+    text-align: center;
+}
